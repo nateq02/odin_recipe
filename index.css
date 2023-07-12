@@ -1,0 +1,17 @@
+* {
+    background-color: #e5eaf5;
+}
+
+h1 {
+    font-family: "Lucida Console";
+    font-size: 30px;
+    color: #8458b3;
+}
+
+h3 {
+    color: #8458B3;
+}
+
+ul {
+    list-style-type: circle;
+}
