@@ -1,3 +1,8 @@
-This is my first project in HTML. For this project, I will be building a basic recipe website. At first, this website will consist of a main index page which will have links to a few recipes.
+This is my first project in HTML and CSS. For this project, I will be building a basic recipe website. This website consists of a main index page that contains links to recipes of 5 of my favorite foods. 
 
-This project will require me to ...
+During this project, I learned a variety of different things, such as:
+    - Different HTML elements like headings, paragraphs, images, and lists
+    - How to connect different webpages using links
+    - How to style the elements that I created using CSS
+    - How to navigate a Github repository and manage changes that I make to my own repositories
+    - How to make my website accessible through Github
