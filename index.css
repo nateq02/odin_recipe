@@ -4,15 +4,19 @@
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 40px;
+    text-align: center;
     color: #4860af;
 }
 
 h2 {
+    font-size: 32px;
     color: #4860af;
 }
 
 h3 {
+    font-size: 25px;
+    text-align: center;
     color: #4860af;
 }
 
@@ -21,5 +25,34 @@ ul {
 }
 
 .pics {
-    width: 500px
+    display: inline-block;
+    width: 300px;
+    vertical-align: middle;
+}
+
+.horiz_pics {
+    display: inline-block;
+    width: 425px;
+    vertical-align: middle;
+    margin-left: 500px;
+}
+
+#ind_container {
+    margin-left: 375px;
+}
+
+div.index {
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 30px;
+    vertical-align: middle;
+}
+
+div.index.recipe {
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -30px;
+    margin-left: 30px;
+    width: 1000px;
 }
