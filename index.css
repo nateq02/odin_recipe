@@ -1,17 +1,25 @@
 * {
-    background-color: #e5eaf5;
+    background-color: rgb(238, 220, 196);
+    font-family: "Papyrus";
 }
 
 h1 {
-    font-family: "Lucida Console";
     font-size: 30px;
-    color: #8458b3;
+    color: #4860af;
+}
+
+h2 {
+    color: #4860af;
 }
 
 h3 {
-    color: #8458B3;
+    color: #4860af;
 }
 
 ul {
     list-style-type: circle;
+}
+
+.pics {
+    width: 500px
 }
