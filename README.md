@@ -7,6 +7,8 @@ During this project, I learned a variety of different things, such as:
     - How to connect different web pages using links
     
     - How to style the elements that I created using CSS
+
+    - How to align elements using inline-block
     
     - How to navigate a GitHub repository and manage changes that I make to my own repositories
     
